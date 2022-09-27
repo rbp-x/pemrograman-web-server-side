@@ -1,0 +1,2 @@
+db_webserv ->db taruh di folder Appserv->mysql->data
+pegawai-> file php taruh di folder appserv->wwww
